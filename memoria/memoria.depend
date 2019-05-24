@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1557879465 source:/home/profesor/Descargas/memoria/main.c
+	<stdio.h>
+	<stdlib.h>
+	"empleado.h"
+
+1557879424 /home/profesor/Descargas/memoria/empleado.h
+
+1557879492 source:/home/profesor/Descargas/memoria/empleado.c
+	<stdio.h>
+	<stdlib.h>
+	"empleado.h"
+
+1557879465 source:/home/alumno/memoria/main.c
+	<stdio.h>
+	<stdlib.h>
+	"empleado.h"
+
+1558648490 /home/alumno/memoria/empleado.h
+
+1558648778 source:/home/alumno/memoria/empleado.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"empleado.h"
+	"validaciones.h"
+
+1558648490 source:/home/alumno/memoria/validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validaciones.h"
+
+1558648490 /home/alumno/memoria/validaciones.h
+
+1558648925 source:/home/alumno/memoria/personas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"personas.h"
+	"validaciones.h"
+
+1558648844 /home/alumno/memoria/personas.h
+
