@@ -42,3 +42,34 @@
 
 1558648844 /home/alumno/memoria/personas.h
 
+1559079006 source:/home/alumno/Clase-18/memoria/empleado.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"empleado.h"
+	"validaciones.h"
+
+1559079006 /home/alumno/Clase-18/memoria/empleado.h
+
+1559079006 /home/alumno/Clase-18/memoria/validaciones.h
+
+1559079006 source:/home/alumno/Clase-18/memoria/main.c
+	<stdio.h>
+	<stdlib.h>
+	"empleado.h"
+
+1559079006 source:/home/alumno/Clase-18/memoria/personas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"personas.h"
+	"validaciones.h"
+
+1559079006 /home/alumno/Clase-18/memoria/personas.h
+
+1559079006 source:/home/alumno/Clase-18/memoria/validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validaciones.h"
+

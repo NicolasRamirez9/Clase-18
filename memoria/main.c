@@ -9,6 +9,22 @@ int main()
     int indiceActual;
     int auxInt;
 
+    char bufferId[4096];
+    char bufferNombre[4096];
+    char bufferApellido[4096];
+    char bufferEstado[4096];
+    FILE *pFile = NULL;
+    FILE *pFileBkp = NULL;
+    pFile = fopen("data.csbv", "r");
+    pFileBkp = fopen("data_bkp.csv", "w");
+
+    if(pFile != NULL && pFileBkp != NULL)
+    {
+        while(!feof(pFile))
+        {
+            fscanf(pFile )
+        }
+    }
     indiceActual = ultimoElementoArrayEmpleado;
     pArrayEmpleado[indiceActual] =  Emp_new();
 
